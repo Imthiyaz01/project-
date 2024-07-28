@@ -1,2 +1,2 @@
 # project-
-My project is about a game
+This project  is about a game 
